@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://assets.dio.me/tYyrvVcon3IBHTgzB20YBmWPaU5ULSl0ql9PIPWfm8o/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzQ4YWZlN2FiLTE0NGMtNDU2Ny04MzgxLTBhYWE5NDU3Y2Y3ZS5qcGc)">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7Ix_IDCQl5usWfXoH648kdugwxrDfaziUg&s">
  
   
   ##
