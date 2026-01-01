@@ -26,3 +26,7 @@
 </div>
 
 
+### 🗄️ Banco de Dados & DevOps  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,docker)](https://skillicons.dev)
+
+
