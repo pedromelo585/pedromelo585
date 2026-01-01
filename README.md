@@ -28,4 +28,5 @@
 
 ### 🗄️ Banco de Dados & DevOps  
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.eia.ai/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiaWl1M2hiOXJ2cXV5ajRpYXpjejhyaGl2ZGRkciIsImRvbWFpbiI6Ind3dy5laWEuYWkifQ.qJsoAnnPzcXuempOPv7mrroB9RxHJvFO5Yh8ZfJtSr4">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://farol.ceuazul.net/storage/images/cache/phpmyadmin-o-que-ele-faz-800-87a9e96d.jpg">
 
