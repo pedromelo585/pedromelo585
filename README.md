@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou estudante
 - 🌱 Focando em Python
 - 🎓graduando em análise e desenvolvimento de sistemas
-- 🚀Sou um profissinal bastante criativo e analalítico
+- 🚀Explorando dados, código e possibilidades.
 - 👑 Google Data analytics 
 
 - <div style="display: inline_block"><br>
