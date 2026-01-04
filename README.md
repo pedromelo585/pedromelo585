@@ -1,7 +1,7 @@
 ##  Olá! Meu nome é Pedro  👋
 
 - 🔭 Atualmente sou estudante
-- 🌱 Focando em Python
+- 🐍 Focando em Python
 - 🎓graduando em análise e desenvolvimento de sistemas
 - 🚀Explorando dados, código e possibilidades.
 - 👑 Google Data analytics 
